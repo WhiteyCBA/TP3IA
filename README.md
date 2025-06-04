@@ -46,7 +46,7 @@ Se visualiza la imagen corregida con un punto rojo en el centro.
 
 ## Autor
 
-Iván Bustamante  
+Ivan Bustamante  
 Trabajo práctico para la materia de Inteligencia Artificial - Módulo 3  
 2025
 
